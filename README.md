@@ -4,7 +4,11 @@ Tic-Tac-Toe Game is a fully-featured web application that offers an immersive ga
 #Output
 
 ![Screenshot (298)](https://github.com/Aditya-1510/Tic-tac-toe-Game/assets/112757099/e3520615-78be-4dc3-9a8d-342ffd7729cb)
-![Screenshot (298)](https://github.com/Aditya-1510/Tic-tac-toe-Game/assets/112757099/cdedd404-fce9-4d8c-85b5-fc484beab0dc)
+
+![Screenshot (299)](https://github.com/Aditya-1510/Tic-tac-toe-Game/assets/112757099/07c1a273-4949-4485-9580-e57b6af2ecd2)
+
+
+
 ![Screenshot (300)](https://github.com/Aditya-1510/Tic-tac-toe-Game/assets/112757099/b8aa989b-a04f-4a75-bc41-2430178f1ec0)
 
 #Overview
